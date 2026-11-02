@@ -1,0 +1,13 @@
+{
+  "model": "hgb",
+  "cv": "GroupKFold(5) by mix, training split",
+  "n_candidates": 32,
+  "best_cv_MAE": 3.8701383823643374,
+  "best_params": {
+    "histgradientboostingregressor__l2_regularization": 0.0,
+    "histgradientboostingregressor__learning_rate": 0.1,
+    "histgradientboostingregressor__max_iter": 1000,
+    "histgradientboostingregressor__max_leaf_nodes": 31,
+    "histgradientboostingregressor__min_samples_leaf": 20
+  }
+}

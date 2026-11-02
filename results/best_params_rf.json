@@ -1,0 +1,10 @@
+{
+  "model": "rf",
+  "cv": "GroupKFold(5) by mix, training split",
+  "n_candidates": 9,
+  "best_cv_MAE": 4.06078110913918,
+  "best_params": {
+    "randomforestregressor__max_features": 0.5,
+    "randomforestregressor__min_samples_leaf": 1
+  }
+}
