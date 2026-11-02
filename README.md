@@ -1,6 +1,6 @@
 # Predicting concrete compressive strength from the mix design
 
-CV7001 Machine Learning Mini-Project — Yanhao Ning (NTU).
+CV7001 Machine Learning Mini-Project.
 
 ## Problem
 
